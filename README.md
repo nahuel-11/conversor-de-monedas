@@ -37,5 +37,6 @@ Elija una opción válida:
 
 👉 Luego el programa pedirá el monto a convertir
 
-Ingrese el valor que deseas convertir: 25
+Ingrese el valor que deseas convertir: 25.
+
 El valor 25.00 [USD] corresponde al valor final de =>> 23675.50 [ARS]
