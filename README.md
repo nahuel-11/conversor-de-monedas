@@ -7,12 +7,12 @@ Un proyecto en **Java** que permite convertir entre diferentes monedas utilizand
 - Conversión en tiempo real con tasas actualizadas.
 - Manejo de excepciones para entradas inválidas.
 - Funciona con las siguientes conversiones:
-  1. 🇺🇸 Dólar (USD) =>> 🇦🇷 Peso Argentino (ARS)  
-  2. 🇦🇷 Peso Argentino (ARS) =>> 🇺🇸 Dólar (USD)  
-  3. 🇺🇸 Dólar (USD) =>> 🇧🇷 Real Brasileño (BRL)  
-  4. 🇧🇷 Real Brasileño (BRL) =>> 🇺🇸 Dólar (USD)  
-  5. 🇺🇸 Dólar (USD) =>> 🇨🇴 Peso Colombiano (COP)  
-  6. 🇨🇴 Peso Colombiano (COP) =>> 🇺🇸 Dólar (USD)  
+1. 🇺🇸 Dólar (USD) =>> 🇦🇷 Peso Argentino (ARS)  
+2. 🇦🇷 Peso Argentino (ARS) =>> 🇺🇸 Dólar (USD)  
+3. 🇺🇸 Dólar (USD) =>> 🇧🇷 Real Brasileño (BRL)  
+4. 🇧🇷 Real Brasileño (BRL) =>> 🇺🇸 Dólar (USD)  
+5. 🇺🇸 Dólar (USD) =>> 🇨🇴 Peso Colombiano (COP)  
+6. 🇨🇴 Peso Colombiano (COP) =>> 🇺🇸 Dólar (USD)  
 
 ---
 
